@@ -62,15 +62,14 @@ With a strong foundation in system administration and a growing interest in cybe
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoshanPDandge&show_icons=true&theme=radical" alt="Roshan's GitHub stats" width="49.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanPDandge&theme=radical" alt="GitHub Streak" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RoshanDandge25&show_icons=true&theme=radical" width="49.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanDandge25&theme=radical" width="49.5%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanPDandge&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanDandge25&layout=compact&theme=radical" />
 </p>
 
----
 
 ## 📫 Connect With Me
 
