@@ -9,7 +9,7 @@
 
 ## 🔥 About Me
 
-I'm a recent graduate in Computer Engineering, currently pursuing a Post Graduate Diploma in IT Infrastructure, Systems, and Security (DITISS) from CDAC, Pune.
+I'm a recent graduate in Computer Engineering, currently pursuing a Post Graduate Diploma in IT Infrastructure, Systems, and Security (DITISS) from CDAC Sunbeam , Pune.
 
 With a strong foundation in system administration and a growing interest in cybersecurity and DevOps, I'm passionate about building secure, scalable, and efficient systems — from infrastructure to applications.
 
@@ -70,13 +70,13 @@ With a strong foundation in system administration and a growing interest in cybe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanDandge25&layout=compact&theme=radical" />
 </p>
 
-
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-dandge-292805215)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoshanPDandge)
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Roshan-Dandge)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoshanDandge25)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshandandge@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-dandge-292805215)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Roshan-Dandge)
+
 
 ---
 
